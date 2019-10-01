@@ -1,1 +1,3 @@
-#Ez az elsõ repo, amit önállóan készítettem, ezen keresztül fogom megtanulni a GitHub használatát.
+#Ez az elsÅ‘ repo, amit Ã¶nÃ¡llÃ³an kÃ©szÃ­tettem, ezen keresztÃ¼l fogom megtanulni a GitHub hasznÃ¡latÃ¡t.
+
+RemÃ©nyeim szerint hamar felfogom mirÅ‘l szÃ³l ez az egÃ©sz.
