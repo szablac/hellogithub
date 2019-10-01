@@ -1,0 +1,1 @@
+#Ez az elsõ repo, amit önállóan készítettem, ezen keresztül fogom megtanulni a GitHub használatát.
